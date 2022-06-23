@@ -1,2 +1,1 @@
-# polly
-Details
+https://tyexploit.github.io/polly/ 
